@@ -3,10 +3,10 @@ model:
   - computer-vision
   - images
   manifest:
-    amount: 1
+    amount: 2
     files: MANIFEST.yaml
-    size: 91 KB
+    size: 164 KB
     store: gdriveh://ml-git-Teste
   mutability: strict
   name: model-ex
-  version: 5
+  version: 6
