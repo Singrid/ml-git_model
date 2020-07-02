@@ -9,4 +9,4 @@ model:
     store: gdriveh://ml-git-Teste
   mutability: strict
   name: model-ex
-  version: 7
+  version: 8
