@@ -7,5 +7,6 @@ model:
     files: MANIFEST.yaml
     size: 363 KB
     store: s3h://s3local
+  mutability: strict
   name: model-ex
-  version: 2
+  version: 9
