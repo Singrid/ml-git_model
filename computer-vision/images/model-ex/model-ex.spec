@@ -5,8 +5,8 @@ model:
   manifest:
     amount: 3
     files: MANIFEST.yaml
-    size: 363 KB
-    store: s3h://s3local
+    size: 372.0 kB
+    store: sftph://upload
   mutability: strict
   name: model-ex
-  version: 9
+  version: 10
