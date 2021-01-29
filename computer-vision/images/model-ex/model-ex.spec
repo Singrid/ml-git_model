@@ -3,10 +3,10 @@ model:
   - computer-vision
   - images
   manifest:
-    amount: 5
+    amount: 6
     files: MANIFEST.yaml
-    size: 543.7 kB
+    size: 546.9 kB
     store: sftph://upload
   mutability: strict
   name: model-ex
-  version: 11
+  version: 12
