@@ -3,10 +3,10 @@ model:
   - computer-vision
   - images
   manifest:
-    amount: 5
+    amount: 6
     files: MANIFEST.yaml
-    size: 444.0 kB
+    size: 447.2 kB
     storage: gdriveh://mlgit
   mutability: strict
   name: models-ex
-  version: 2
+  version: 3
