@@ -9,4 +9,4 @@ model:
     storage: s3h://s3local
   mutability: strict
   name: models-ex
-  version: 5
+  version: 1
