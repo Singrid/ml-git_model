@@ -3,10 +3,10 @@ model:
   - computer-vision
   - images
   manifest:
-    amount: 5
+    amount: 6
     files: MANIFEST.yaml
-    size: 444.0 kB
+    size: 979.9 kB
     storage: s3h://s3local
   mutability: strict
   name: models-ex
-  version: 1
+  version: 6
